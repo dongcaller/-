@@ -58,4 +58,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # 봇의 토큰을 이용해 실행
-bot.run('MTIxNzQ3NDE3NDkzNTYyOTkxNA.GnPfkP.XT4DIxynzkpTUIs0nVYRZHG4W9gSy4y8Lz9qpI')
+bot.run('MTIxNzQ3NDE3NDkzNTYyOTkxNA.Gv6CSr.XCYs1uaNVu64RlBxNHQW5RpQ_Dblz0P2QreL9g')
